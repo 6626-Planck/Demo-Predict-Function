@@ -1,0 +1,5 @@
+meter_id,branch_id,meter_name,installation_time
+1,1,Van Dau 12,2024-01-15T08:00:00
+2,1,Van Dau 13,2024-01-16T08:00:00
+3,2,Van Dau 14,2024-01-17T08:00:00
+4,2,Van Dau 15,2024-01-18T08:00:00
