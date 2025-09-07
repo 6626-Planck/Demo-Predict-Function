@@ -33,7 +33,7 @@ npm install
 
 ### Chạy ứng dụng Angular
 ```sh
-npm serve --open
+ng serve --open
 ```
 - Ứng dụng sẽ chạy tại `http://localhost:4200` và kết nối tới backend ở `http://localhost:5000`
 
