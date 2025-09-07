@@ -17,6 +17,7 @@ pip install -r requirements.txt
 python run.py
 ```
 - API sẽ chạy mặc định tại `http://localhost:5000`
+- Để xem chi tiết endpoint + mẫu trả về, xem tại http://localhost:5000/docs
 
 ## 2. Chạy Frontend (Angular)
 
